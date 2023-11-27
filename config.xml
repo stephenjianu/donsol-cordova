@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.stephenjianu.donsol" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Donsol</name>
+    <description>A card game about exploring a dungeon made of a standard 54 poker card set.</description>
+    <author email="stephen@stephenjianu.com" href="https://github.com/stephenjianu/donsol-js/tree/web">
+        Stephen Jianu; original game by Hundred Rabbits
+    </author>
+    <icon src="res/icon180x180.png" />
+    <content src="sources/index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>

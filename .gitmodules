@@ -1,0 +1,4 @@
+[submodule "www"]
+	path = www
+	url = ../donsol-js.git
+	branch = mobile
